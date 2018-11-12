@@ -1,0 +1,6 @@
+# Created at 2018-11-13T01:06:18.835
+objc[29791]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/bin/java (0x1055d94c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x1056814e0). One of the two will be used. Which one is undefined.
+
+# Created at 2018-11-13T01:07:07.862
+2018-11-13 01:07:07.861 java[29791:1151609] pid(29791)/euid(501) is calling TIS/TSM in non-main thread environment, ERROR : This is NOT allowed. Please call TIS/TSM in main thread!!!
+

@@ -1,0 +1,6 @@
+PageObject/HomePage.class
+PageObject/UserLoginPage.class
+Tests/ComposeMessageTests.class
+PageObject/SentMessagesPage.class
+Configuration/DriverConfig.class
+PageObject/MessagesPage.class
