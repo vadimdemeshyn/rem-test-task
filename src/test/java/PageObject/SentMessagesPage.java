@@ -77,7 +77,7 @@ public class SentMessagesPage {
         if (reason != null) assertTrue(messageText.getText().toLowerCase().contains(reason.toLowerCase()));
 
         //Assert Related to Appointment is correct
-        //assertTrue(messageText.getText().toLowerCase().contains(relatedTo.toLowerCase()));
+        assertTrue(messageText.getText().toLowerCase().contains(relatedTo.toLowerCase()));
 
 
         //Assert Date is correct
